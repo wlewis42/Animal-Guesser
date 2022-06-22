@@ -1,0 +1,19 @@
+Are you a mammal?
+Are you bigger than a cat?
+Are you a marsupial?
+kangaroo
+#
+#
+raccoon
+#
+#
+mouse
+#
+#
+Do you live underwater?
+trout
+#
+#
+robin
+#
+#
